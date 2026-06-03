@@ -45,8 +45,8 @@ Royal Route Holidays is a modern travel and tourism website developed and deploy
 The website provides an online presence for Royal Route Holidays, enabling customers to explore travel packages, discover destinations, and submit inquiries directly through the platform.
 
 ## Screenshots
+<img width="1353" height="603" alt="Capture" src="https://github.com/user-attachments/assets/19c00346-8115-4832-8535-3268cd21fecf" />
 
-*Add homepage, package page, destination page, and contact page screenshots here.*
 
 ## Live Demo
 
